@@ -12,6 +12,7 @@ main{
 	.container{
 		width: 1110px;
 		overflow: hidden;
+		margin-bottom: 50px;
 
 		.row{
 			font-size: 0;
@@ -26,25 +27,33 @@ main{
 				&:first-child{ margin-left: 0; }
 				&:last-child{ margin-right: 0; }
 			}
+		}
 
-			.contacts-section{
-				font-size: 16pt;
-				width: 280px;
-				margin-top: 45px;
-				float: left;
+		.contacts-section{
+			font-size: 16pt;
+			width: 280px;
+			margin-top: 45px;
+			float: left;
+			padding: 0;
+
+			p{
 				padding: 0;
-
-				p{
-					padding: 0;
-					margin: 0 0 30px 0;
-				}
-			}
-
-			.map-section{
-				margin-top: 45px;
-				float: right;
+				margin: 0 0 30px 0;
 			}
 		}
+
+		.map-section{
+			margin-top: 45px;
+			float: right;
+		}
+
+		figure{
+			width: 20%;
+			float: left;
+			margin: 2%;
+			font-size: 14pt;
+
+		}		
 	}
 }
 
@@ -74,7 +83,7 @@ main{
 		}
 	}
 
-	.slider-text-contacts{
+	.slider-text-inner{
 		position: absolute;		
 		top: 80px;
 		left: 130px;
