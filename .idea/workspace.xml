@@ -1,125 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6d483c6-5fde-4e19-ae3c-24b35d58c8a1" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/LICENSE-MIT" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/dist/LICENSE-MIT" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/assets/scss/foundation.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/assets/scss/normalize.scss" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bower_components/jquery-colorbox/i18n/jquery.colorbox-pt-br.js" afterPath="$PROJECT_DIR$/bower_components/jquery-colorbox/i18n/jquery.colorbox-pt-BR.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/.bower.json" afterPath="$PROJECT_DIR$/bower_components/jquery/.bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery-colorbox/.bower.json" afterPath="$PROJECT_DIR$/bower_components/jquery-colorbox/.bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/.bower.json" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/.bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/.gitignore" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/data/Data.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/data/Data.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/Gruntfile.js" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/Gruntfile.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery-colorbox/README.md" afterPath="$PROJECT_DIR$/bower_components/jquery-colorbox/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/README.md" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/dist/README.md" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/dist/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/effects/Tween.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/effects/Tween.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/_config.json" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/_config.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/src/scss/_mixins.scss" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/src/scss/_mixins.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/src/scss/_theme.scss" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/src/scss/_theme.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/css/addGetHookIf.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css/addGetHookIf.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/ajax.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/ajax.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/demos/animate.hbs" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/demos/animate.hbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/docs/api-classes.hbs" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/docs/api-classes.hbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/docs/api-options.hbs" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/docs/api-options.hbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/attributes/attr.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/attributes/attr.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/demos/autoheight.hbs" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/demos/autoheight.hbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/demos/autoplay.hbs" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/demos/autoplay.hbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/demos/autowidth.hbs" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/demos/autowidth.hbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/demos/basic.hbs" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/demos/basic.hbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/bower.json" afterPath="$PROJECT_DIR$/bower_components/jquery/bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery-colorbox/bower.json" afterPath="$PROJECT_DIR$/bower_components/jquery-colorbox/bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/bower.json" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/demos/center.hbs" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/demos/center.hbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/attributes/classes.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/attributes/classes.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/data/classes.json" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/data/classes.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/core.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/core.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/css.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/css/curCSS.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css/curCSS.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/data.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/data.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/css/defaultDisplay.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css/defaultDisplay.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/deferred.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/deferred.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/docs/dev-styles.hbs" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/docs/dev-styles.hbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/dimensions.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/dimensions.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/assets/scss/docs.scss" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/assets/scss/docs.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/effects.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/effects.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/event.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/event.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/demos/events.hbs" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/demos/events.hbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/css/var/getStyles.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css/var/getStyles.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/exports/global.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/exports/global.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/partials/head.hbs" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/partials/head.hbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/partials/header.hbs" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/partials/header.hbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/partials/home-hero.hbs" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/partials/home-hero.hbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/partials/home-teaser-text.hbs" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/partials/home-teaser-text.hbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/core/init.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/core/init.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/intro.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/intro.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery-colorbox/jquery.colorbox-min.js" afterPath="$PROJECT_DIR$/bower_components/jquery-colorbox/jquery.colorbox-min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery-colorbox/jquery.colorbox.js" afterPath="$PROJECT_DIR$/bower_components/jquery-colorbox/jquery.colorbox.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/dist/jquery.js" afterPath="$PROJECT_DIR$/bower_components/jquery/dist/jquery.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/jquery.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/jquery.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/dist/jquery.min.js" afterPath="$PROJECT_DIR$/bower_components/jquery/dist/jquery.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/dist/jquery.min.map" afterPath="$PROJECT_DIR$/bower_components/jquery/dist/jquery.min.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/demos/lazyLoad.hbs" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/demos/lazyLoad.hbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/manipulation.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/manipulation.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/demos/merge.hbs" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/demos/merge.hbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/demos/mousewheel.hbs" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/demos/mousewheel.hbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/offset.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/offset.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/data/options.json" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/data/options.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/src/css/owl.animate.css" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/src/css/owl.animate.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/src/js/owl.animate.js" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/src/js/owl.animate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/src/css/owl.autoheight.css" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/src/css/owl.autoheight.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/src/js/owl.autoheight.js" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/src/js/owl.autoheight.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/src/js/owl.autoplay.js" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/src/js/owl.autoplay.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/dist/assets/owl.carousel.css" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/dist/assets/owl.carousel.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/src/css/owl.carousel.css" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/src/css/owl.carousel.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/dist/owl.carousel.js" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/dist/owl.carousel.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/src/js/owl.carousel.js" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/src/js/owl.carousel.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/dist/assets/owl.carousel.min.css" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/dist/assets/owl.carousel.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/dist/owl.carousel.min.js" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/dist/owl.carousel.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/src/scss/owl.carousel.scss" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/src/scss/owl.carousel.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/src/js/owl.hash.js" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/src/js/owl.hash.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/src/css/owl.lazyload.css" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/src/css/owl.lazyload.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/src/js/owl.lazyload.js" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/src/js/owl.lazyload.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/src/js/owl.navigation.js" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/src/js/owl.navigation.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/dist/assets/owl.theme.default.css" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/dist/assets/owl.theme.default.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/src/css/owl.theme.default.css" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/src/css/owl.theme.default.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/dist/assets/owl.theme.default.min.css" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/dist/assets/owl.theme.default.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/dist/assets/owl.theme.green.css" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/dist/assets/owl.theme.green.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/src/css/owl.theme.green.css" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/src/css/owl.theme.green.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/dist/assets/owl.theme.green.min.css" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/dist/assets/owl.theme.green.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/src/css/owl.video.css" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/src/css/owl.video.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/src/js/owl.video.js" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/src/js/owl.video.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/src/scss/owl.video.scss" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/src/scss/owl.video.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/package.json" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/attributes/prop.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/attributes/prop.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/queue.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/queue.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/core/ready.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/core/ready.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/demos/responsive.hbs" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/demos/responsive.hbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/sizzle/dist/sizzle.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/sizzle/dist/sizzle.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/sizzle/dist/sizzle.min.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/sizzle/dist/sizzle.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/sizzle/dist/sizzle.min.map" afterPath="$PROJECT_DIR$/bower_components/jquery/src/sizzle/dist/sizzle.min.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/demos/stagepadding.hbs" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/demos/stagepadding.hbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/docs/started-faq.hbs" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/docs/started-faq.hbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/docs/started-welcome.hbs" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/docs/started-welcome.hbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/docs/support-contact.hbs" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/docs/support-contact.hbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/docs/support-contributing.hbs" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/docs/support-contributing.hbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/attributes/support.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/attributes/support.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/css/support.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/css/support.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/manipulation/support.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/manipulation/support.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/demos/test.hbs" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/demos/test.hbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/traversing.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/traversing.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/demos/urlhashnav.hbs" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/demos/urlhashnav.hbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/attributes/val.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/attributes/val.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/demos/video.hbs" afterPath="$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/demos/video.hbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/wrap.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/wrap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower_components/jquery/src/ajax/xhr.js" afterPath="$PROJECT_DIR$/bower_components/jquery/src/ajax/xhr.js" />
-    </list>
+    <list default="true" id="c6d483c6-5fde-4e19-ae3c-24b35d58c8a1" name="Default" comment="" />
     <ignored path="marine_c.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -135,6 +20,20 @@
   <component name="FavoritesManager">
     <favorites_list name="marine_c" />
   </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="dev-buildin-plugins.hbs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/docs/dev-buildin-plugins.hbs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.4800885">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -144,6 +43,9 @@
   </component>
   <component name="NamedScopeManager">
     <order />
+  </component>
+  <component name="PhpServers">
+    <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
@@ -193,6 +95,150 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="marine_c" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="marine_c" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bower_components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="owl-carousel2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="marine_c" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="marine_c" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bower_components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="owl-carousel2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs_src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="marine_c" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="marine_c" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bower_components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="owl-carousel2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs_src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="marine_c" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="marine_c" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bower_components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="owl-carousel2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs_src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="marine_c" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="marine_c" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bower_components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="owl-carousel2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="docs_src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="marine_c" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="marine_c" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bower_components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -207,8 +253,12 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c6d483c6-5fde-4e19-ae3c-24b35d58c8a1" name="Default" comment="" />
@@ -222,7 +272,7 @@
     <frame x="14" y="27" width="1400" height="833" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32867134" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32867134" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -243,6 +293,14 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -252,5 +310,15 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bower_components/owl-carousel2/docs_src/templates/pages/docs/dev-buildin-plugins.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.4800885">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
